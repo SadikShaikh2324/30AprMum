@@ -6,7 +6,7 @@ public class demo2
 		
 		System.out.println("Good mrng");
 		
-		
+		System.out.println("hi");
 	}
 
 }
